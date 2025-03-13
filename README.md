@@ -1,2 +1,14 @@
-# 123321-video-aula-cnms
-Repositorio criado para video aula explicando como funciona o git
+jProjeto em aula 1
+=================
+
+Primeiro projeto a ser criado em sala de aula
+
+### HTML Com Javascript e CSS Simples
+
+**Objetivo:** Aprender a utilizar o *GitHub*, fazer os primeiros commits e utilizar os *Codespaces*.
+
+    - Repositorio criado para video aula explicando como funciona o git
+    
+Bons estudos
+
+*Prof. Renato Gobet Uzun*
